@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Moon Light é um projeto para treinar o uso de efeito Parallax Scrolling em um website.
 
-- [Visite o projeto online](https://tuliorafaelms.github.io/nlw-habits)
+- [Visite o projeto online](https://tuliorafaelms.github.io/moon-light/)
 
 ## 🔖 Layout
 
